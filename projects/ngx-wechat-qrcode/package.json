@@ -1,0 +1,13 @@
+{
+  "name": "ngx-wechat-qrcode",
+  "version": "0.0.1",
+  "author": {
+    "email": "harlancui@outlook.com",
+    "name": "ferried",
+    "url": "https://github.com/ferried/ngx-wechat-qrcode"
+  },
+  "peerDependencies": {
+    "@angular/common": "^6.0.0-rc.0 || ^6.0.0",
+    "@angular/core": "^6.0.0-rc.0 || ^6.0.0"
+  }
+}
